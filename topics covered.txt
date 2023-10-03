@@ -1,0 +1,4 @@
+Props drilling
+state management
+links using <Router> <Routes> <Route> <Link>   (React Router DOM)
+useContext hook
